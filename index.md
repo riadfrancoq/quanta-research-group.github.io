@@ -11,12 +11,6 @@
   text="Join Us"
   link="https://greene-lab.gitbook.io/lab-website-template-docs"
 %}
-{%
-  include button.html
-  type="github"
-  text="On YouTube"
-  link="https://www.youtube.com/@Quantum_Colombia"
-%}
 
 {% include section.html %}
 
