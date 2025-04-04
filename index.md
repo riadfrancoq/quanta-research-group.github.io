@@ -1,10 +1,9 @@
 ---
 ---
 
-# Lab Website Template
+# QUANTA
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/).
-Spend less time worrying about managing a website and citations, and more time running your lab.
+Quantum Understanding, Algorithms, Networks, Technologies, and Applications Research Group at [Universidad Nacional de Colombia](https://unal.edu.co)
 
 {%
   include button.html
