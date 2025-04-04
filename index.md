@@ -3,18 +3,19 @@
 
 # QUANTA
 
-Quantum Understanding, Algorithms, Networks, Technologies, and Applications Research Group at [Universidad Nacional de Colombia](https://unal.edu.co)
+**Q**uantum **U**nderstanding, **A**lgorithms, **N**etworks, **T**echnologies, and **A**pplications Research Group at [Universidad Nacional de Colombia](https://unal.edu.co)
 
 {%
   include button.html
   type="docs"
+  text="Join Us"
   link="https://greene-lab.gitbook.io/lab-website-template-docs"
 %}
 {%
   include button.html
   type="github"
-  text="On GitHub"
-  link="greenelab/lab-website-template"
+  text="On YouTube"
+  link="https://www.youtube.com/@Quantum_Colombia"
 %}
 
 {% include section.html %}
