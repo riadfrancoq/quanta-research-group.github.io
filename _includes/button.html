@@ -14,7 +14,9 @@
         data-flip
       {% endif %}
       aria-label="{{ button.tooltip | default: button.icon | default: "button" | regex_strip }}"
+      {% if include.new_tab %}
       target="_blank"
+      {% endif %}
     >
       {% include icon.html icon=button.icon %}
       {% if button.text and button.text != "" %}
