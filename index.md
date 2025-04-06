@@ -1,9 +1,10 @@
 ---
 ---
 
-# QUANTA
 
-​The group emerged in 2021 as a research seedbed under the name "Quantum Computing". In 2024, after an unsuccessful attempt to group all quantum initiatives in the country, it was restructured and adopted the name QUANTA. [Universidad Nacional de Colombia](https://unal.edu.co)
+Welcome to the Quantum Understanding, Algorithms, Networks, Technologies, and Applications Research Group at [Universidad Nacional de Colombia](https://unal.edu.co). Our group investigates Quantum Computing, Artificial Intelligence, and High Performance Computing, focusing on the development of quantum algorithms, quantum communication protocols, and scalable technologies for real-world applications across science and engineering.
+
+​The group emerged in 2021 as a research seedbed under the name "Quantum Computing". In 2024, after an unsuccessful attempt to group all quantum initiatives in the country, it was restructured and adopted the name QUANTA.
 
 {%
   include button.html
