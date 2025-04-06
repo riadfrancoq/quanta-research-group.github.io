@@ -18,7 +18,7 @@
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We use quantum computing to explore foundational and applied problems across science and technology. In all of our research, we emphasize collaboration, scientific rigor, and real-world impact.
 
 {%
   include button.html
@@ -41,7 +41,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We believe that quantum research should be open, inclusive, and accessible. Through our projects, we create software, tools, and learning resources that are free to use.
 
 {%
   include button.html
@@ -66,7 +66,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are a passionate team committed to advancing the frontiers of quantum science. We foster an inclusive and collaborative environment, valuing diverse perspectives as a driving force for innovation and discovery.
 
 {%
   include button.html
