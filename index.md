@@ -3,7 +3,7 @@
 
 # QUANTA
 
-**Q**uantum **U**nderstanding, **A**lgorithms, **N**etworks, **T**echnologies, and **A**pplications Research Group at [Universidad Nacional de Colombia](https://unal.edu.co)
+​The group emerged in 2021 as a research seedbed under the name "Quantum Computing". In 2024, after an unsuccessful attempt to group all quantum initiatives in the country, it was restructured and adopted the name QUANTA.
 
 {%
   include button.html
