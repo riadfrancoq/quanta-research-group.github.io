@@ -8,7 +8,6 @@ The group was born in 2021 as a research seedbed under the name "Quantum Computi
 
 {%
   include button.html
-  type="docs"
   text="Join Us"
   link="https://forms.gle/kZnTtzyNYcTYFBBL7"
 %}
