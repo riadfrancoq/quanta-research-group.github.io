@@ -19,7 +19,7 @@ The group was born in 2021 as a research seedbed under the name "Quantum Computi
 
 {% capture text %}
 
-We use quantum computing to explore foundational and applied problems across science and technology. In all of our research, we emphasize collaboration, scientific rigor, and real-world impact.
+We use quantum computing to explore fundamental and applied problems in science, technology and engineering. In our research we emphasize collaboration, scientific rigor and real-world impact.
 
 {%
   include button.html
@@ -42,7 +42,7 @@ We use quantum computing to explore foundational and applied problems across sci
 
 {% capture text %}
 
-We believe that quantum research should be open, inclusive, and accessible. Through our projects, we create software, tools, and learning resources that are free to use.
+We believe in open, inclusive and accessible quantum research. Through projects, we create free-to-use software, courses, tools and learning resources.
 
 {%
   include button.html
@@ -67,7 +67,7 @@ We believe that quantum research should be open, inclusive, and accessible. Thro
 
 {% capture text %}
 
-We are a passionate team committed to advancing the frontiers of quantum science. We foster an inclusive and collaborative environment, valuing diverse perspectives as a driving force for innovation and discovery.
+We are a team committed to advancing the frontiers of quantum science. We foster an inclusive and collaborative space, driving innovation and discovery.
 
 {%
   include button.html
