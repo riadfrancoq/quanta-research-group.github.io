@@ -50,3 +50,5 @@ Our group is part of the [Department of Mathematics](https://ciencias.medellin.u
 %}
 
 {% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 %}
