@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our group is part of the [Department of Mathematics](https://ciencias.medellin.unal.edu.co/escuelas/matematicas/) and the [Department of Physics](https://ciencias.medellin.unal.edu.co/escuelas/fisica/) of the [Faculty of Sciences](https://ciencias.medellin.unal.edu.co) of the [Universidad Nacional de Colombia](https://unal.edu.co). We are an interdisciplinary team with presence in different regions of the country.
 
 {%
   include button.html
@@ -28,6 +26,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
   link="https://maps.app.goo.gl/NYdzTpLUNCdrvA7D9"
+  new_tab=true
 %}
 
 {% include section.html %}
@@ -51,27 +50,3 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 %}
 
 {% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 %}
-
-{% include section.html dark=true %}
-
-{% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}

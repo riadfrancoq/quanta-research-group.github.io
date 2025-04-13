@@ -2,9 +2,9 @@
 ---
 
 
-Welcome to the Quantum Understanding, Algorithms, Networks, Technologies, and Applications Research Group at [Universidad Nacional de Colombia](https://unal.edu.co). Our group investigates Quantum Computing, Artificial Intelligence, and High Performance Computing, focusing on the development of quantum algorithms, quantum optimization, quantum communication protocols, integration of QC with AI and scalable technologies for real-world applications across science and engineering.
+Welcome to the Quantum Understanding, Algorithms, Networks, Technologies, and Applications Research Group at [Universidad Nacional de Colombia](https://unal.edu.co). Our group investigates Quantum Computing and Artificial Intelligence, focusing on the development of quantum algorithms, quantum optimization, quantum communication protocols, integration of QC with AI and scalable technologies for real-world applications across science and engineering.
 
-The group was born in 2021 as a research seedbed under the name "Quantum Computing". In 2024, after a failed attempt to articulate the country's quantum initiatives under the Quantum Colombia project, it was restructured and adopted the name QUANTA. It currently has more than 90 members, 5 years of trajectory and presence in 3 locations.
+The group was born in 2021 as a research seedbed under the name "Quantum Computing". In 2024, after a failed attempt to articulate the country's quantum initiatives under the "Quantum Colombia" project, it was restructured and adopted the name QUANTA. It currently has more than 90 members, 5 years of trajectory and presence in 3 locations.
 
 {%
   include button.html
