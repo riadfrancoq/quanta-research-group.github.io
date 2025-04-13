@@ -16,9 +16,14 @@ Our group is made up of a team of highly committed and collaborative researchers
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We work with a wide range of leading groups around the world, and are always on the lookout for new and unique perspectives. We want to push the frontiers of quantum computing and train the next generation of scientists.
+
+{%
+  include button.html
+  text="Join Us"
+  link="https://forms.gle/kZnTtzyNYcTYFBBL7"
+  new_tab=true
+%}
 
 {% include section.html %}
 
