@@ -51,4 +51,14 @@ Our group is part of the [Department of Mathematics](https://ciencias.medellin.u
 
 {% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 %}
+{% capture col3 %}
+
+{%
+  include figure.html
+  image="images/photo.jpg"
+  caption="Lorem ipsum"
+%}
+
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 col3=col3%}
