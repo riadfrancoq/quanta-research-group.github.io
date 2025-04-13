@@ -1,8 +1,7 @@
 ---
-name: Jane Smith
+name: Cristian E. Bello
 image: images/photo.jpg
 role: principal-investigator
-affiliation: University of Colorado
 aliases:
   - J. Smith
   - J Smith

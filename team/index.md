@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our group is made up of a team of highly committed and collaborative researchers. We recognize that diverse teams do better research. We foster an environment where team members are treated equally and where we respect and admire our differences. The team includes students and staff at all levels.
 
 {% include section.html %}
 
