@@ -35,8 +35,7 @@ Our group is part of the [Department of Mathematics](https://ciencias.medellin.u
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/contact1.jpg"
 %}
 
 {% endcapture %}
@@ -45,8 +44,7 @@ Our group is part of the [Department of Mathematics](https://ciencias.medellin.u
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/contact2.jpg"
 %}
 
 {% endcapture %}
@@ -55,8 +53,7 @@ Our group is part of the [Department of Mathematics](https://ciencias.medellin.u
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/contact3.jpg"
 %}
 
 {% endcapture %}
