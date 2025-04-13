@@ -29,11 +29,6 @@ Our group is part of the [Department of Mathematics](https://ciencias.medellin.u
   new_tab=true
 %}
 
-{%
-  include figure.html
-  image="images/logounal.png"
-%}
-
 {% include section.html %}
 
 {% capture col1 %}
