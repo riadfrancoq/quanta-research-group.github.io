@@ -1,6 +1,6 @@
-- title: Cool Dataset
-  subtitle: a subtitle
-  group: featured
+- title: Quantum Machine Learning Seminar
+  subtitle: 2025 - 01
+  group: current
   image: images/photo.jpg
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -8,9 +8,9 @@
   tags:
     - resource
 
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
+- title: Quantum Neural Networks
+  subtitle: 2025 -2026
+  group: current
   image: images/photo.jpg
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

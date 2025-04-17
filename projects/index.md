@@ -17,7 +17,7 @@ This page showcases our current and past research projects. We strive to create 
 
 ## Current
 
-{% include list.html component="card" data="projects" filter="group == 'featured'" %}
+{% include list.html component="card" data="projects" filter="group == 'current'" %}
 
 {% include section.html %}
 
