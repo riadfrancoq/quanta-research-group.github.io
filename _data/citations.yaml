@@ -75,13 +75,13 @@
   plugin: sources.py
   file: sources.yaml
 - id: qc-education-colombia
-  title: "Quantum Education Initiatives in Colombia: Challenges and Opportunities"
-  authors: ["María Rodríguez", "Luis Torres"]
-  publisher: "Preprint"
-  date: 2024-12-01
-  link: "https://example.com/qc-education"
+  title: "Quantum Computing Education in Latin America Experiences and Strategies"
+  authors: ["Laura Tenjo-Patiño", "Cristian E. Bello", "Alcides Montoya Cañola"]
+  publisher: "Preprint arXiv"
+  date: 2025-02-04
+  link: "https://doi.org/10.48550/arXiv.2410.18307"
   description: "An in-depth look at how Colombia is integrating quantum computing into its education system, based on the work of the QUANTA group."
-  tags: ["education", "quantum", "Colombia"]
+  tags: ["Quantum Education", "Latin America", "Workforce Development", "Competence Framework"]
   buttons:
     - text: "Read Online"
       link: "https://example.com/qc-education"
