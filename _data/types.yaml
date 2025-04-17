@@ -76,7 +76,7 @@ orcid:
   icon: fa-brands fa-orcid
   text: ORCID
   tooltip: ORCID
-  link: https://orcid.org/$VALUE
+  link: https://orcid.org/0000-0002-3991-4008
 
 google-scholar:
   icon: fa-brands fa-google
