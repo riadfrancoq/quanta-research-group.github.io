@@ -24,6 +24,18 @@
 
 - id: arxiv.2409.00059
   type: paper
+  date: 2025-02-4
+  image: https://arxiv.org/html/2410.18307v2/extracted/6176482/eightdomains.png
+  buttons:
+    - type: source
+      text: Manuscript Source
+      link: https://arxiv.org/pdf/2410.18307
+    - type: website
+      link: https://arxiv.org/abs/2410.18307
+  tags:
+    - open science
+    - collaboration
+  repo: greenelab/meta-review
 
 - id: arxiv.2410.18307
   type: paper
