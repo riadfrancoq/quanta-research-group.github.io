@@ -24,3 +24,4 @@ There are multiple initiatives, platforms and open resources in quantum computin
 {% include search-info.html %}
 
 {% include list.html data="citations" component="citation" style="rich" %}
+

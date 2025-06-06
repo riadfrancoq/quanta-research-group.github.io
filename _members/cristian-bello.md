@@ -1,15 +1,12 @@
 ---
 name: Cristian E. Bello
-image: images/photo.jpg
+image: images/members/Cristian Eliecer Bello Reyes.png
 role: principal-investigator
-aliases:
-  - J. Smith
-  - J Smith
+group: alum
 links:
   home-page: https://janesmith.com
   orcid: 0000-0001-8713-9213
 ---
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
 Elit at imperdiet dui accumsan.
