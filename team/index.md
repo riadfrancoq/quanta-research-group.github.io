@@ -10,7 +10,7 @@ Our group is made up of a team of highly committed and collaborative researchers
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'Co-Founder & Director'" %}
+{% include list.html data="members" component="portrait" filter="name == 'Alcides Montoya'" %}
 {% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
@@ -26,12 +26,10 @@ We work with a wide range of leading groups around the world, and are always on 
 
 {% include section.html %}
 
+# Alumni
 
 {% capture content %}
-{% include list.html data="members" component="portrait" filter="role == 'alm'" %}
-{% include list.html data="members" component="portrait" filter="group == 'alum'" style="small" %}
-
-
+{% include list.html data="members" component="portrait" filter="group == 'alum'" %}
 {% endcapture %}
 
-{% include grid.html style="square" content=content %}
+{% include grid.html content=content cols=4 %}
