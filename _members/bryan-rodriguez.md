@@ -1,6 +1,6 @@
 ---
 name: Bryan Rodriguez
 image: images/members/Bryan Steven Rodriguez Ruiz.jpg
-role: investigator
+role: undergrad
 group: alum
 --- 

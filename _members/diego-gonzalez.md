@@ -1,6 +1,6 @@
 ---
 name: Diego González
 image: images/members/Diego Hernando González Buitrago.jpg
-role: investigator
+role: undergrad
 group: alum
 --- 

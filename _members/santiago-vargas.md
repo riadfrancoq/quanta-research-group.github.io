@@ -1,6 +1,6 @@
 ---
 name: Santiago Vargas
-image: images/members/Santiago Vargas Dominguez.jpg
-role: investigator
+image: images/members/Santiago Vargas Dominguez.jpeg
+role: undergrad
 group: alum
 --- 

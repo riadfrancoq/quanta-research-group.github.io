@@ -28,8 +28,8 @@ We work with a wide range of leading groups around the world, and are always on 
 
 # Alumni
 
-{% capture content %}
-{% include list.html data="members" component="portrait" filter="group == 'alum'" %}
-{% endcapture %}
 
-{% include grid.html content=content cols=4 %}
+{% include list.html data="members" component="portrait" filter="group == 'alum'" style="small" %}
+
+
+

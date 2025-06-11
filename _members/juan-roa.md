@@ -1,6 +1,6 @@
 ---
 name: Juan Roa
-image: images/members/Juan Sebastian Roa Sánchez.jpg
+image: images/members/Juan Sebastian Roa Sanchez.jpeg
 role: undergrad
 group: alum
 --- 
