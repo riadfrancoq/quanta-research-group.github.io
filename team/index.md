@@ -4,15 +4,14 @@ nav:
   order: 3
   tooltip: About our team
 ---
-
-# {% include icon.html icon="fa-solid fa-users" %}Team
+# Team
 
 Our group is made up of a team of highly committed and collaborative researchers. We recognize that diverse teams do better research. We foster an environment where team members are treated equally and where we respect and admire our differences. The team includes students and staff at all levels.
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+{% include list.html data="members" component="portrait" filter="name == 'Alcides Montoya'" %}
+{% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
@@ -27,12 +26,10 @@ We work with a wide range of leading groups around the world, and are always on 
 
 {% include section.html %}
 
-{% capture content %}
+# Alumni
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
 
-{% endcapture %}
+{% include list.html data="members" component="portrait" filter="group == 'alum'" style="small" %}
 
-{% include grid.html style="square" content=content %}
+
+
